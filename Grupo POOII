@@ -1,9 +1,9 @@
-Título del Proyecto: Your Bookshelf
+# Título del Proyecto: Your Bookshelf
 
-Nombre del Grupo: Grupo POOII
+## Nombre del Grupo: Grupo POOII
 1.  Integrante: Elías Ezequiel Peryera Gómez
 
-Visión
+## Visión
 
 Desarrollaré un interfaz gráfica de web que permita a los usuarios seleccionar y agrupar los libros como desee, permitiéndole las 
 opciones: que todos los libros aparezcan en un solo lugar (sin orden alfabético); que pueda filtrar los libros según su género; 
@@ -15,5 +15,14 @@ más hacia los estudiantes de cualquier nivel (primario a terciario), que puedan
 recomendados por las instituciones, en un solo lugar, sin la necesidad de estar siempre buscando en algún motor de búsqueda y 
 también, a diferencia de otras páginas, la disponibilidad de la información en español. 
 
-Lista de Características
+## Lista de Características
 
+## Análisis de Dominio
+
+## Bocetos de Interfaz de Usuario
+
+## Casos de Uso
+
+### Actores
+
+## Arquitectura
